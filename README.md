@@ -2,7 +2,7 @@
 
 https://cursos.alura.com.br/course/api-django-3-rest-framework
 
-## Learning the basic about the Django Rest Framework
+## Learning the basics of Django Rest Framework
 
 * [Python 3.9.13](https://www.python.org/)
 * [Django 4.1.5](https://www.djangoproject.com/)
