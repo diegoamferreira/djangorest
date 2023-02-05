@@ -24,8 +24,7 @@ pip install -r requirements.txt
 
 # Django
 python manage.py migrate
-python manage.py createsuperuser --email="admin@email.com"
-python manage.py test
+python manage.py createsuperuser
 python manage.py runserver
 ```
 
